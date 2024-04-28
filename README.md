@@ -9,10 +9,10 @@ These checks help maintain consistency and prevent common errors in defining Cel
 
 ## Installation
 
-To install `flake8_celery_bind_checker`, you can use pip:
+To install `flake8_celery_bind_checker` from GitHub, you can use pip:
 
 ```
-pip install flake8_celery_bind_checker
+pip install git+https://github.com/eprikazc/flake8_celery_bind_checker.git@main
 ```
 
 Alternatively, if you have access to the source code, navigate to the plugin directory and run:
